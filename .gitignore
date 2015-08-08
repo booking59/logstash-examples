@@ -1,0 +1,12 @@
+.DS_Store
+.settings
+
+/build
+target/
+
+*.iml
+*.ipr
+*.iws
+.idea
+out
+test-output

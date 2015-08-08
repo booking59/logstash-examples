@@ -1,4 +1,4 @@
-Log Generator
-=============
+Logstash Examples
+==================
 
-Small stuff for personal usage ...
+Small logstash stuff usage 
